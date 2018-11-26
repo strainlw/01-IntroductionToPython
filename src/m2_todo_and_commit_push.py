@@ -68,7 +68,7 @@ print('Hello, World')
 #   Look at the  Run  window to be sure that your string printed as expected.
 #
 ###############################################################################
-print('Fightin Engineers')
+print('Elephant')
 ###############################################################################
 #
 # DONE: 4.
